@@ -1,0 +1,70 @@
+\NeedsTeXFormat{LaTeX2e}[1994/06/01]
+\ProvidesPackage{authyear}[1999/02/12 written by A. Mookerjee, PRIVATE USE ONLY]
+\RequirePackage{ifthen}
+\newcommand{\citebegin}{} \newcommand{\citeend}{}
+\newcommand{\citesep}{}
+\newcommand{\auyrsep}{,}
+\DeclareOption{round}{\renewcommand{\citebegin}{}
+\renewcommand{\citeend}{}}
+\DeclareOption{square}{\renewcommand{\citebegin}{[}
+\renewcommand{\citeend}{]}}
+\DeclareOption{comma}{\renewcommand{\citesep}{,}}
+\DeclareOption{colon}{\renewcommand{\citesep}{;}}
+\ExecuteOptions{round,comma}
+\ProcessOptions
+\newcommand{\AY@cite}[2]
+{\ifthenelse{\equal{.}{#2}}
+{#1}
+{\citebegin#1%
+\ifthenelse{\equal{#2}{}}
+{}
+{,#2}%
+\citeend}}
+\newcommand{\AY@sep}{}
+\renewcommand{\cite}[2][.]{%
+\renewcommand{\AY@sep}{}%
+\AY@cite{\@for\@citeb:=#2\do
+{\edef\@citeb{\expandafter\@iden\@citeb}%
+  \ifthenelse{\boolean{@filesw}}
+    {\immediate\write\@auxout{\string\citation{\@citeb}}}
+      {}%
+\@ifundefined{b@\@citeb}
+  {\AY@sep{\reset@font\bfseries ?}\G@refundefinedtrue
+    \@latex@warning
+       {Citation `\@citeb' on page \thepage \space undefined}}
+  {\AY@parse{\@citeb}%
+     \ifthenelse{\equal{.}{#1}}
+       {\AY@sep{\AY@author}\citebegin\AY@year
+            \renewcommand{\AY@sep}{\citeend\citesep\ }}
+       {\AY@sep{\AY@author}\auyrsep\ \AY@year
+            \renewcommand{\AY@sep}{\citesep\ }}}}% ends \do
+\ifthenelse{\equal{.}{#1}}
+       {\citeend}
+{}%
+}{#1}}
+\newcommand{\AY@parse}[1]{{\let\protect=\@unexpandable@protect
+\xdef\@tempa{\@nameuse{b@#1}}%
+\expandafter\AY@split\@tempa()@}}
+\def\AY@split#1(#2)#3@{\gdef\AY@author{#1}\gdef\AY@year{#2}}
+\@ifundefined{chapter}
+ {\newcommand{\AY@bibsect}{\section*{\refname}}}
+ {\newcommand{\AY@bibsect}{\chapter*{\bibname}}}
+\providecommand{\refname}{References}
+\providecommand{\bibname}{Bibliography}
+\renewenvironment{thebibliography}[1]
+ {\AY@bibsect
+     \setlength{\parindent}{0pt}\list{}
+     {\setlength{\leftmargin}{1em}%
+      \setlength{\itemindent}{-\leftmargin}}
+\ifthenelse{\boolean{@openbib}}
+    {\renewcommand\newblock{\newline}}
+    {\renewcommand\newblock{\hskip .11em plus .33em minus .07em}}
+  \sloppy\clubpenalty4000\widowpenalty4000
+ \frenchspacing\parsep \z@ \itemsep \z@}
+{\renewcommand{\@noitemerr}{\@latex@warning
+{Empty `thebibliography' environment}}%
+\endlist\vspace{-\lastskip}}
+\renewcommand{\@biblabel}[1]{\hfill}
+
+
+

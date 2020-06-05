@@ -1,0 +1,805 @@
+@ New Refrences
+
+@article{iitaka2003methane,
+  title={Methane hydrate under high pressure},
+  author={Iitaka, Toshiaki and Ebisuzaki, Toshikazu},
+  journal={Physical Review B},
+  volume={68},
+  number={17},
+  pages={172105},
+  year={2003},
+  publisher={APS}
+}
+
+@article{sugimura2008compression,
+  title={Compression of H 2 O ice to 126 GPa and implications for hydrogen-bond symmetrization: Synchrotron x-ray diffraction measurements and density-functional calculations},
+  author={Sugimura, Emiko and Iitaka, Toshiaki and Hirose, Kei and Kawamura, Katsuyuki and Sata, Nagayoshi and Ohishi, Yasuo},
+  journal={Physical Review B},
+  volume={77},
+  number={21},
+  pages={214103},
+  year={2008},
+  publisher={APS}
+}
+
+@article{benoit2002reassigning,
+  title={Reassigning hydrogen-bond centering in dense ice},
+  author={Benoit, Magali and Romero, Aldo H and Marx, Dominik},
+  journal={Physical review letters},
+  volume={89},
+  number={14},
+  pages={145501},
+  year={2002},
+  publisher={APS}
+}
+
+@article{mahajan2007introduction,
+  title={An introduction to natural gas hydrate/clathrate: The major organic carbon reserve of the Earth},
+  author={Mahajan, Devinder and Taylor, Charles E and Mansoori, G Ali},
+  journal={Journal of Petroleum Science and Engineering},
+  volume={56},
+  number={1},
+  pages={1--8},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{loveday2008high,
+  title={High-pressure gas hydrates},
+  author={Loveday, JS and Nelmes, RJ},
+  journal={Physical Chemistry Chemical Physics},
+  volume={10},
+  number={7},
+  pages={937--950},
+  year={2008},
+  publisher={Royal Society of Chemistry}
+}
+
+@book{petroski1992pencil,
+  title={The pencil: A history of design and circumstance},
+  author={Petroski, Henry},
+  year={1992},
+  publisher={Alfred a Knopf Incorporated}
+}
+
+@article{friedel1990pencil,
+  title={The Pencil: a History of Design and Circumstance},
+  author={Friedel, Robert},
+  journal={Science},
+  volume={248},
+  number={4957},
+  pages={894--896},
+  year={1990},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{wallace1947band,
+  title={The band theory of graphite},
+  author={Wallace, Philip Richard},
+  journal={Physical Review},
+  volume={71},
+  number={9},
+  pages={622},
+  year={1947},
+  publisher={APS}
+}
+
+@article{kroto1985c,
+  title={C 60: buckminsterfullerene},
+  author={Kroto, Harold W and Heath, James R and O'Brien, Sean C and Curl, Robert F and Smalley, Richard E and others},
+  journal={Nature},
+  volume={318},
+  number={6042},
+  pages={162--163},
+  year={1985},
+  publisher={London}
+}
+
+@article{novoselov2004electric,
+  title={Electric field effect in atomically thin carbon films},
+  author={Novoselov, Kostya S and Geim, Andre K and Morozov, Sergei V and Jiang, D and Zhang, Y\_ and Dubonos, Sergey V and Grigorieva, Irina V and Firsov, Alexandr A},
+  journal={science},
+  volume={306},
+  number={5696},
+  pages={666--669},
+  year={2004},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{novoselov2005two,
+  title={Two-dimensional gas of massless Dirac fermions in graphene},
+  author={Novoselov, Kostya S and Geim, Andre K and Morozov, SVb and Jiang, Da and Katsnelson, MIc and Grigorieva, IVa and Dubonos, SVb and Firsov, AAb},
+  journal={nature},
+  volume={438},
+  number={7065},
+  pages={197--200},
+  year={2005},
+  publisher={Nature Publishing Group}
+}
+
+@article{schedin2007detection,
+  title={Detection of individual gas molecules adsorbed on graphene},
+  author={Schedin, F and Geim, AK and Morozov, SV and Hill, EW and Blake, P and Katsnelson, MI and Novoselov, KS},
+  journal={Nature materials},
+  volume={6},
+  number={9},
+  pages={652--655},
+  year={2007},
+  publisher={Nature Publishing Group}
+}
+
+@article{ci2010atomic,
+  title={Atomic layers of hybridized boron nitride and graphene domains},
+  author={Ci, Lijie and Song, Li and Jin, Chuanhong and Jariwala, Deep and Wu, Dangxin and Li, Yongjie and Srivastava, Anchal and Wang, ZF and Storr, Kevin and Balicas, Luis and others},
+  journal={Nature materials},
+  volume={9},
+  number={5},
+  pages={430--435},
+  year={2010},
+  publisher={Nature Research}
+}
+
+@article{singh2013first,
+  title={A first-principles investigation of the optical spectra of oxidized graphene},
+  author={Singh, Nirpendra and Kaloni, Thaneshwor P and Schwingenschl{\"o}gl, Udo},
+  journal={Applied Physics Letters},
+  volume={102},
+  number={2},
+  pages={023101},
+  year={2013},
+  publisher={AIP}
+}
+
+@article{kaloni2011induced,
+  title={Induced magnetism in transition metal intercalated graphitic systems},
+  author={Kaloni, Thaneshwor P and Kahaly, M Upadhyay and Schwingenschl{\"o}gl, U},
+  journal={Journal of Materials Chemistry},
+  volume={21},
+  number={46},
+  pages={18681--18685},
+  year={2011},
+  publisher={Royal Society of Chemistry}
+}
+
+
+@article{kaloni2014band,
+  title={Band gap tunning in BN-doped graphene systems with high carrier mobility},
+  author={Kaloni, TP and Joshi, RP and Adhikari, NP and Schwingenschl{\"o}gl, Udo},
+  journal={Applied Physics Letters},
+  volume={104},
+  number={7},
+  pages={073116},
+  year={2014},
+  publisher={AIP}
+}
+
+@article{ataca2008high,
+  title={High-capacity hydrogen storage by metallized graphene},
+  author={Ataca, C and Akt{\"u}rk, E and Ciraci, S and Ustunel, H},
+  journal={Applied Physics Letters},
+  volume={93},
+  number={4},
+  pages={043123},
+  year={2008},
+  publisher={AIP}
+}
+
+@article{saha2009mechanisms,
+  title={Mechanisms of molecular doping of graphene: A first-principles study},
+  author={Saha, Srijan Kumar and Chandrakanth, Reddy Ch and Krishnamurthy, HR and Waghmare, UV},
+  journal={Physical Review B},
+  volume={80},
+  number={15},
+  pages={155414},
+  year={2009},
+  publisher={APS}
+}
+
+
+@article{thapa2011palladium,
+  title={Palladium atoms and its dimers adsorbed on graphene: first-principles study},
+  author={Thapa, R and Sen, D and Mitra, MK and Chattopadhyay, KK},
+  journal={Physica B: Condensed Matter},
+  volume={406},
+  number={3},
+  pages={368--373},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{thapa2013molecular,
+  title={a Molecular Dynamics Study of Oxygen Gas in Water at Different Temperatures},
+  author={Thapa, SK and Adhikari, NP},
+  journal={International Journal of Modern Physics B},
+  volume={27},
+  number={08},
+  pages={1350023},
+  year={2013},
+  publisher={World Scientific}
+}
+
+@article{park2010tunable,
+  title={Tunable excitons in biased bilayer graphene},
+  author={Park, Cheol-Hwan and Louie, Steven G},
+  journal={Nano letters},
+  volume={10},
+  number={2},
+  pages={426--431},
+  year={2010},
+  publisher={ACS Publications}
+}
+
+@article{geim2009graphene,
+  title={Graphene: status and prospects},
+  author={Geim, Andre Konstantin},
+  journal={science},
+  volume={324},
+  number={5934},
+  pages={1530--1534},
+  year={2009},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{kaloni2012fluorinated,
+  title={Fluorinated monovacancies in graphene: Even-odd effect},
+  author={Kaloni, Thaneshwor P and Cheng, YC and Schwingenschl{\"o}gl, Udo},
+  journal={EPL (Europhysics Letters)},
+  volume={100},
+  number={3},
+  pages={37003},
+  year={2012},
+  publisher={IOP Publishing}
+}
+
+@article{ugeda2010missing,
+  title={Missing atom as a source of carbon magnetism},
+  author={Ugeda, Miguel M and Brihuega, Iv{\'a}n and Guinea, Francisco and G{\'o}mez-Rodr{\'\i}guez, Jos{\'e} M},
+  journal={Physical Review Letters},
+  volume={104},
+  number={9},
+  pages={096804},
+  year={2010},
+  publisher={APS}
+}
+
+@article{ding2011engineering,
+  title={Engineering quantum anomalous/valley Hall states in graphene via metal-atom adsorption: An ab-initio study},
+  author={Ding, Jun and Qiao, Zhenhua and Feng, Wanxiang and Yao, Yugui and Niu, Qian},
+  journal={Physical Review B},
+  volume={84},
+  number={19},
+  pages={195444},
+  year={2011},
+  publisher={APS}
+}
+
+@article{pumera2011graphene,
+  title={Graphene-based nanomaterials for energy storage},
+  author={Pumera, Martin},
+  journal={Energy \& Environmental Science},
+  volume={4},
+  number={3},
+  pages={668--674},
+  year={2011},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{dai2012carbon,
+  title={Carbon nanomaterials for advanced energy conversion and storage},
+  author={Dai, Liming and Chang, Dong Wook and Baek, Jong-Beom and Lu, Wen},
+  journal={small},
+  volume={8},
+  number={8},
+  pages={1130--1166},
+  year={2012},
+  publisher={Wiley Online Library}
+}
+
+@article{longo2011ab,
+  title={Ab initio study of 3 d, 4 d, and 5 d transition metal adatoms and dimers adsorbed on hydrogen-passivated zigzag graphene nanoribbons},
+  author={Longo, RC and Carrete, J and Gallego, LJ},
+  journal={Physical Review B},
+  volume={83},
+  number={23},
+  pages={235415},
+  year={2011},
+  publisher={APS}
+}
+
+@article{duffy1998magnetism,
+  title={Magnetism of 3 d transition-metal adatoms and dimers on graphite},
+  author={Duffy, DM and Blackman, JA},
+  journal={Physical Review B},
+  volume={58},
+  number={11},
+  pages={7443},
+  year={1998},
+  publisher={APS}
+}
+
+@article{valencia2010trends,
+  title={Trends in the adsorption of 3d transition metal atoms onto graphene and nanotube surfaces: a DFT study and molecular orbital analysis},
+  author={Valencia, Hubert and Gil, Adrià and Frapper, Gilles},
+  journal={The Journal of Physical Chemistry C},
+  volume={114},
+  number={33},
+  pages={14141--14153},
+  year={2010},
+  publisher={ACS Publications}
+}
+
+@article{han2014graphene,
+  title={Graphene radio frequency receiver integrated circuit},
+  author={Han, Shu-Jen and Garcia, Alberto Valdes and Oida, Satoshi and Jenkins, Keith A and Haensch, Wilfried},
+  journal={Nature communications},
+  volume={5},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
+
+@article{hu2014transparent,
+  title={Transparent half metallic g-C4N3 nanotubes: potential multifunctional applications for spintronics and optical devices},
+  author={Hu, Tao and Hashmi, Arqum and Hong, Jisang},
+  journal={Scientific reports},
+  volume={4},
+  pages={6059},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
+
+@article{basu2012recent,
+  title={Recent developments on graphene and graphene oxide based solid state gas sensors},
+  author={Basu, S and Bhattacharyya, P},
+  journal={Sensors and Actuators B: Chemical},
+  volume={173},
+  pages={1--21},
+  year={2012},
+  publisher={Elsevier}
+}
+@article{chan2008first,
+  title={First-principles study of metal adatom adsorption on graphene},
+  author={Chan, Kevin T and Neaton, JB and Cohen, Marvin L},
+  journal={Physical Review B},
+  volume={77},
+  number={23},
+  pages={235430},
+  year={2008},
+  publisher={APS}
+}
+
+@article{crovetto1982solubilities,
+  title={Solubilities of inert gases and methane in H2O and in D2O in the temperature range of 300 to 600 K},
+  author={Crovetto, Rosa and Fern{\'a}ndez-Prini, R and Japas, Mar{\'\i}a Laura},
+  journal={The Journal of Chemical Physics},
+  volume={76},
+  number={2},
+  pages={1077--1086},
+  year={1982},
+  publisher={AIP}
+}
+
+@article{pratt1980effects,
+  title={Effects of solute--solvent attractive forces on hydrophobic correlations},
+  author={Pratt, Lawrence R and Chandler, David},
+  journal={The Journal of Chemical Physics},
+  volume={73},
+  number={7},
+  pages={3434--3441},
+  year={1980},
+  publisher={AIP}
+}
+
+@article{guillot1993computer,
+  title={A computer simulation study of the temperature dependence of the hydrophobic hydration},
+  author={Guillot, B and Guissani, Y},
+  journal={The Journal of chemical physics},
+  volume={99},
+  number={10},
+  pages={8075--8094},
+  year={1993},
+  publisher={AIP}
+}
+
+@article{alberts2002molecular,
+  title={Molecular biology of the cell. new york: Garland science; 2002},
+  author={Alberts, Bruce and Johnson, Alexander and Lewis, Julian and Raff, Martin and Roberts, Keith and Walter, Peter},
+  journal={Classic textbook now in its 5th Edition},
+  year={2002}
+}
+
+@article{tanford1997protein,
+  title={How protein chemists learned about the hydrophobic factor},
+  author={Tanford, Charles},
+  journal={Protein science},
+  volume={6},
+  number={6},
+  pages={1358--1366},
+  year={1997},
+  publisher={Wiley Online Library}
+}
+
+@article{raschke2001quantification,
+  title={Quantification of the hydrophobic interaction by simulations of the aggregation of small hydrophobic solutes in water},
+  author={Raschke, Tanya M and Tsai, Jerry and Levitt, Michael},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={98},
+  number={11},
+  pages={5965--5969},
+  year={2001},
+  publisher={National Acad Sciences}
+}
+
+@article{gekko1998acetonitrile,
+  title={Acetonitrile-protein interactions: amino acid solubility and preferential solvation},
+  author={Gekko, Kunihiko and Ohmae, Eiji and Kameyama, Keiichi and Takagi, Toshio},
+  journal={Biochimica et Biophysica Acta (BBA)-Protein Structure and Molecular Enzymology},
+  volume={1387},
+  number={1},
+  pages={195--205},
+  year={1998},
+  publisher={Elsevier}
+}
+
+@article{hwang2011methanol,
+  title={Methanol strengthens hydrogen bonds and weakens hydrophobic interactions in proteins--a combined molecular dynamics and NMR study},
+  author={Hwang, Soyoun and Shao, Qiang and Williams, Howard and Hilty, Christian and Gao, Yi Qin},
+  journal={The Journal of Physical Chemistry B},
+  volume={115},
+  number={20},
+  pages={6653--6660},
+  year={2011},
+  publisher={ACS Publications}
+}
+
+@article{li2007hydrophobic,
+  title={Hydrophobic interaction and hydrogen-bond network for a methane pair in liquid water},
+  author={Li, Je-Luen and Car, Roberto and Tang, Chao and Wingreen, Ned S},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={104},
+  number={8},
+  pages={2626--2630},
+  year={2007},
+  publisher={National Acad Sciences}
+}
+@article{o2007interactions,
+  title={Interactions between hydrophobic and ionic solutes in aqueous guanidinium chloride and urea solutions: lessons for protein denaturation mechanism},
+  author={O'Brien, Edward P and Dima, Ruxandra I and Brooks, Bernard and Thirumalai, D},
+  journal={Journal of the American Chemical Society},
+  volume={129},
+  number={23},
+  pages={7346--7353},
+  year={2007},
+  publisher={ACS Publications}
+}
+
+@article{privalov1988stability,
+  title={Stability of protein structure and hydrophobic interaction},
+  author={Privalov, Peter L and Gill, Stanley J},
+  journal={Advances in protein chemistry},
+  volume={39},
+  pages={191--234},
+  year={1988},
+  publisher={Elsevier}
+}
+
+@article{sobolewski2007potential,
+  title={Potential of mean force of hydrophobic association: dependence on solute size},
+  author={Sobolewski, Emil and Makowski, Mariusz and Czaplewski, Cezary and Liwo, Adam and O{\l}dziej, Stanis{\l}aw and Scheraga, Harold A},
+  journal={The Journal of Physical Chemistry B},
+  volume={111},
+  number={36},
+  pages={10765--10774},
+  year={2007},
+  publisher={ACS Publications}
+}
+
+@article{hotta2005fluctuating,
+  title={Fluctuating hydration structure around nanometer-size hydrophobic solutes. I. Caging and drying around C60 and C60H60 spheres},
+  author={Hotta, Takeshi and Kimura, Akihiro and Sasai, Masaki},
+  journal={The Journal of Physical Chemistry B},
+  volume={109},
+  number={39},
+  pages={18600--18608},
+  year={2005},
+  publisher={ACS Publications}
+}
+
+@article{eddaoudi2002systematic,
+  title={Systematic design of pore size and functionality in isoreticular MOFs and their application in methane storage},
+  author={Eddaoudi, Mohamed and Kim, Jaheon and Rosi, Nathaniel and Vodak, David and Wachter, Joseph and O'keeffe, Michael and Yaghi, Omar M},
+  journal={Science},
+  volume={295},
+  number={5554},
+  pages={469--472},
+  year={2002},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{wu2009high,
+  title={High-capacity methane storage in metal- organic frameworks M2 (dhtp): the important role of open metal sites},
+  author={Wu, Hui and Zhou, Wei and Yildirim, Taner},
+  journal={Journal of the American Chemical Society},
+  volume={131},
+  number={13},
+  pages={4995--5000},
+  year={2009},
+  publisher={ACS Publications}
+}
+
+@article{durgun2004energetics,
+  title={Energetics and electronic structures of individual atoms adsorbed on carbon nanotubes},
+  author={Durgun, E and Dag, S and Ciraci, S and G{\"u}lseren, O},
+  journal={The Journal of Physical Chemistry B},
+  volume={108},
+  number={2},
+  pages={575--582},
+  year={2004},
+  publisher={ACS Publications}
+}
+
+@article{guo2011metal,
+  title={A metal--organic framework with optimized open metal sites and pore spaces for high methane storage at room temperature},
+  author={Guo, Zhiyong and Wu, Hui and Srinivas, Gadipelli and Zhou, Yaming and Xiang, Shengchang and Chen, Zhenxia and Yang, Yongtai and Zhou, Wei and O'Keeffe, Michael and Chen, Banglin},
+  journal={Angewandte Chemie International Edition},
+  volume={50},
+  number={14},
+  pages={3178--3181},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+
+@article{chouhan2015graphene,
+  title={Graphene oxide as an optimal candidate material for methane storage},
+  author={Chouhan, Rajiv K and Ulman, Kanchan and Narasimhan, Shobhana},
+  journal={The Journal of chemical physics},
+  volume={143},
+  number={4},
+  pages={044704},
+  year={2015},
+  publisher={AIP Publishing}
+}
+
+@article{arora2015techniques,
+  title={Techniques for exploitation of gas hydrate (clathrates) an untapped resource of methane gas},
+  author={Arora, Amit and Cameotra, Swaranjit Singh},
+  journal={Journal of Microbial \& Biochemical Technology},
+  volume={7},
+  number={02},
+  year={2015},
+  publisher={OMICS International}
+}
+
+@article{sloan2004introductory,
+  title={Introductory overview: Hydrate knowledge development},
+  author={Sloan, E Dendy},
+  journal={American Mineralogist},
+  volume={89},
+  number={8-9},
+  pages={1155--1161},
+  year={2004}
+}
+
+@article{hohenberg1964inhomogeneous,
+  title={Inhomogeneous electron gas},
+  author={Hohenberg, Pierre and Kohn, Walter},
+  journal={Physical review},
+  volume={136},
+  number={3B},
+  pages={B864},
+  year={1964},
+  publisher={APS}
+}
+
+@article{kohn1965self,
+  title={Self-consistent equations including exchange and correlation effects},
+  author={Kohn, Walter and Sham, Lu Jeu},
+  journal={Physical review},
+  volume={140},
+  number={4A},
+  pages={A1133},
+  year={1965},
+  publisher={APS}
+}
+
+@article{grimme2004accurate,
+  title={Accurate description of van der Waals complexes by density functional theory including empirical corrections},
+  author={Grimme, Stefan},
+  journal={Journal of computational chemistry},
+  volume={25},
+  number={12},
+  pages={1463--1473},
+  year={2004},
+  publisher={Wiley Online Library}
+}
+
+@article{chai2008long,
+  title={Long-range corrected hybrid density functionals with damped atom--atom dispersion corrections},
+  author={Chai, Jeng-Da and Head-Gordon, Martin},
+  journal={Physical Chemistry Chemical Physics},
+  volume={10},
+  number={44},
+  pages={6615--6620},
+  year={2008},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{grimme2006semiempirical,
+  title={Semiempirical GGA-type density functional constructed with a long-range dispersion correction},
+  author={Grimme, Stefan},
+  journal={Journal of computational chemistry},
+  volume={27},
+  number={15},
+  pages={1787--1799},
+  year={2006},
+  publisher={Wiley Online Library}
+}
+
+@article{yagi2004stable,
+  title={Stable geometries and magnetic properties of single-walled carbon nanotubes doped with 3 d transition metals: A first-principles study},
+  author={Yagi, Yosuke and Briere, Tina M and Sluiter, Marcel HF and Kumar, Vijay and Farajian, Amir A and Kawazoe, Yoshiyuki},
+  journal={Physical Review B},
+  volume={69},
+  number={7},
+  pages={075414},
+  year={2004},
+  publisher={APS}
+}
+
+@article{wu2009stability,
+  title={Stability, electronic, and magnetic behaviors of Cu adsorbed graphene: A first-principles study},
+  author={Wu, M and Liu, En-Zuo and Ge, MY and Jiang, JZ},
+  journal={Applied Physics Letters},
+  volume={94},
+  number={10},
+  pages={102505},
+  year={2009},
+  publisher={AIP}
+}
+
+@article{cao2010transition,
+  title={Transition metal adatom and dimer adsorbed on graphene: Induced magnetization and electronic structures},
+  author={Cao, Chao and Wu, Min and Jiang, Jianzhong and Cheng, Hai-Ping},
+  journal={Physical Review B},
+  volume={81},
+  number={20},
+  pages={205424},
+  year={2010},
+  publisher={APS}
+}
+
+@book{bader1990atoms,
+  title={Atoms in molecules},
+  author={Bader, Richard FW},
+  year={1990},
+  publisher={Wiley Online Library}
+}
+
+@article{henkelman2006fast,
+  title={A fast and robust algorithm for Bader decomposition of charge density},
+  author={Henkelman, Graeme and Arnaldsson, Andri and J{\'o}nsson, Hannes},
+  journal={Computational Materials Science},
+  volume={36},
+  number={3},
+  pages={354--360},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{lozano2002advances,
+  title={Advances in the study of methane storage in porous carbonaceous materials},
+  author={Lozano-Castello, D and Alcaniz-Monge, J and De la Casa-Lillo, MA and Cazorla-Amor{\'o}s, D and Linares-Solano, A},
+  journal={Fuel},
+  volume={81},
+  number={14},
+  pages={1777--1803},
+  year={2002},
+  publisher={Elsevier}
+}
+
+@article{kaiser2013methane,
+  title={Methane Adsorption on Aggregates of Fullerenes: Site-Selective Storage Capacities and Adsorption Energies},
+  author={Kaiser, Alexander and Z{\"o}ttl, Samuel and Bartl, Peter and Leidlmair, Christian and Mauracher, Andreas and Probst, Michael and Denifl, Stephan and Echt, Olof and Scheier, Paul},
+  journal={ChemSusChem},
+  volume={6},
+  number={7},
+  pages={1235--1244},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{ricca2006physisorption,
+  title={The physisorption of CH 4 on graphite and on a (9, 0) carbon nanotube},
+  author={Ricca, Alessandra and Bauschlicher, Charles W},
+  journal={Chemical physics},
+  volume={324},
+  number={2},
+  pages={455--458},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{albesa2008comparative,
+  title={Comparative study of methane adsorption on graphite},
+  author={Albesa, Alberto G and Llanos, Jorge L and Vicente, Jos{\'e} L},
+  journal={Langmuir},
+  volume={24},
+  number={8},
+  pages={3836--3840},
+  year={2008},
+  publisher={ACS Publications}
+}
+
+@article{thierfelder2011methane,
+  title={Methane adsorption on graphene from first principles including dispersion interaction},
+  author={Thierfelder, C and Witte, M and Blankenburg, S and Rauls, E and Schmidt, WG},
+  journal={Surface Science},
+  volume={605},
+  number={7},
+  pages={746--749},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{thierfelder2011methane,
+  title={Methane adsorption on graphene from first principles including dispersion interaction},
+  author={Thierfelder, C and Witte, M and Blankenburg, S and Rauls, E and Schmidt, WG},
+  journal={Surface Science},
+  volume={605},
+  number={7},
+  pages={746--749},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{man2013methane,
+  title={Methane adsorption on graphite (0001) films: A first-principles study},
+  author={Man-Chao, He and Jian, Zhao},
+  journal={Chinese Physics B},
+  volume={22},
+  number={1},
+  pages={016802},
+  year={2013},
+  publisher={IOP Publishing}
+}
+
+@article{rao2015comparative,
+  title={Comparative study of potential applications of graphene, MoS2, and other two-dimensional materials in energy devices, sensors, and related areas},
+  author={Rao, CNR and Gopalakrishnan, K and Maitra, Urmimala},
+  journal={ACS applied materials \& interfaces},
+  volume={7},
+  number={15},
+  pages={7809--7832},
+  year={2015},
+  publisher={ACS Publications}
+}
+
+@article{vidali1991potentials,
+  title={Potentials of physical adsorption},
+  author={Vidali, Gianfranco and Ihm, G and Kim, Hye-Young and Cole, Milton W},
+  journal={Surface Science Reports},
+  volume={12},
+  number={4},
+  pages={135--181},
+  year={1991},
+  publisher={Elsevier}
+}
+
+@book{bergethon1998physical,
+  title={The Physical Basis of Biochemistry: The Foundations of Molecular Biophysics},
+  author={Bergethon, Peter R},
+  year={1998},
+  publisher={Springer Science \& Business Media}
+}
+
+@article{rapaport2004art,
+  title={The Art of Molecular Dynamics Simulation},
+  author={Rapaport, DC},
+  journal={The Art of Molecular Dynamics Simulation, by DC Rapaport, pp. 564. ISBN 0521825687. Cambridge, UK: Cambridge University Press, April 2004.},
+  pages={564},
+  year={2004}
+}
+
+
+
+
+

@@ -1,0 +1,22 @@
+@article{Carrillo2009,
+  title={Adsorption of carbon dioxide and methane on graphene with a high titanium coverage},
+  author={Carrillo, I and Rangel, Eduardo and Maga{\~n}a, LF},
+  journal={Carbon},
+  volume={47},
+  number={11},
+  pages={2758--2760},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@ARTICLE{Dueren2004,
+  author = {D{\"u}ren, Tina and Sarkisov, Lev and Yaghi, Omar M and Snurr, Randall
+	Q},
+  title = {Design of new materials for methane storage},
+  journal = {Langmuir},
+  year = {2004},
+  volume = {20},
+  pages = {2683--2689},
+  number = {7},
+  publisher = {ACS Publications}
+}
